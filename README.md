@@ -1,4 +1,4 @@
-# DNA Sequence Analyzer
+# 🧬 DNA Sequence Analyzer
 
 A small Python program that performs basic analysis on a DNA sequence.
 
