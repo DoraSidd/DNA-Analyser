@@ -19,6 +19,14 @@ A Python application for analysing DNA sequences stored in FASTA files.
 - Summary statistics
 - Export results to results.txt
 
+## Project Structure
+Fasta Analyser/
+│
+├── analyser.py
+├── fasta_reader.py
+├── main.py
+└── README.md
+
 ## Example Output
 
 text
