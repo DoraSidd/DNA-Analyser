@@ -1,0 +1,56 @@
+========== Gene1 ==========
+
+DNA: ATGGCCATTTAAGTAGCC
+
+Length             : 18
+A                  : 5 (27.78%)
+T                  : 5 (27.78%)
+G                  : 4 (22.22%)
+C                  : 4 (22.22%)
+GC Content         : 44.44%
+ATG Position       : 0
+Complement         : TACCGGTAAATTCATCGG
+Reverse Complement : GGCTACTTAAATGGCCAT
+RNA                : AUGGCCAUUUAAGUAGCC
+Protein            : MAI
+
+
+========== Gene2 ==========
+
+DNA: ATGCGTGCGGCCTAA
+
+Length             : 15
+A                  : 3 (20.00%)
+T                  : 3 (20.00%)
+G                  : 5 (33.33%)
+C                  : 4 (26.67%)
+GC Content         : 60.00%
+ATG Position       : 0
+Complement         : TACGCACGCCGGATT
+Reverse Complement : TTAGGCCGCACGCAT
+RNA                : AUGCGUGCGGCCUAA
+Protein            : MRAA
+
+
+========== Gene3 ==========
+
+DNA: GCCATTATGGCAGGGTAAAGGCCC
+
+Length             : 24
+A                  : 6 (25.00%)
+T                  : 4 (16.67%)
+G                  : 8 (33.33%)
+C                  : 6 (25.00%)
+GC Content         : 58.33%
+ATG Position       : 6
+Complement         : CGGTAATACCGTCCCATTTCCGGG
+Reverse Complement : GGGCCTTTACCCTGCCATAATGGC
+RNA                : GCCAUUAUGGCAGGGUAAAGGCCC
+Protein            : MAG
+
+
+========== SUMMARY ==========
+
+Total genes analysed : 3
+Average length       : 19.00
+Average GC content   : 54.26%
